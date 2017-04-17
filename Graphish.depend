@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492409212 source:c:\users\jaime\desktop\new folder\graphish\main.cpp
+	<deque>
+	<vector>
+	<bitset>
+	<string>
+	<sstream>
+	<iterator>
+	<iostream>
+	<limits>
+
